@@ -202,6 +202,7 @@ body {
   background-color: #ebebff;
   border-radius: 8px;
   padding: 4px 12px;
+  cursor: pointer;
 }
 
 .see-projects {
@@ -216,4 +217,106 @@ body {
   color: #396df2;
   border: 1px solid #396df2;
   margin-top: 50px;
+  cursor: pointer;
 }
+
+.cf{
+  width: 375px;
+  height: 779px;
+  margin-top: 100px;
+  
+}
+
+.bg-img{
+  background-image: url('card-Images/Contact\ me.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 779px;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.cont{
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 103px;
+ 
+}
+
+.par{
+  margin-top: 12px;
+  width: 327px;
+  height: 137px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: rgba(235, 235, 255, 1);
+
+}
+
+.in{
+  display: grid;
+  grid-template-rows: 48px 48px 170px;
+  gap: 18px;
+}
+
+.un{
+  width: 327px;
+  height: 48px;
+
+  width: 327px;
+  border-radius: 8px;
+  border: 1px;
+  color: #FFFFFF;
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: 400;
+  padding-left: 16px;
+}
+
+.em{
+  width: 327px;
+  height: 48px;
+
+  width: 327px;
+  border-radius: 8px;
+  border: 1px;
+  color: #FFFFFF;
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: 400;
+  padding-left: 16px;
+}
+
+.bt{
+  width: 142px;
+  height: 48px;
+  padding: 12px 16px 12px 16px;
+  border-radius: 8px;
+  color: #6070FF;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 3%;
+  border: none;
+  cursor: pointer;
+}
+
+.msg {
+  width: 340px;
+  height: 170px;
+  border-radius: 8px;
+  border: none;
+  color: #B3BAC5;
+  font-size: 15px;
+  font-weight: 400;
+}
+
