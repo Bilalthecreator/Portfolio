@@ -131,7 +131,6 @@ body {
 }
 
 .Tonic {
-  font-family: Poppins;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
@@ -160,7 +159,6 @@ body {
 }
 
 .grey {
-  font-family: Poppins;
   font-size: 13px;
   font-weight: 600;
   line-height: 16px;
@@ -171,7 +169,6 @@ body {
 .main-txt {
   width: 295px;
   height: 76px;
-  font-family: Poppins;
   font-size: 15px;
   font-weight: 400;
   line-height: 24px;
